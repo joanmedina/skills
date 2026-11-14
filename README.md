@@ -26,6 +26,8 @@ Si prefieres no usar la terminal, cada skill tiene en la web su archivo ZIP y un
 | [`control-entrega`](control-entrega/SKILL.md) | Operaciones y gestión de proyectos | Revisa un trabajo antes de que llegue a un cliente, en seis bloques de comprobación, y termina con un veredicto claro. |
 | [`diagnostico-crecimiento`](diagnostico-crecimiento/SKILL.md) | Dirección y gerencia | Busca el cuello de botella que frena el crecimiento de un negocio y ordena qué hacer primero. |
 | [`estado-proyecto`](estado-proyecto/SKILL.md) | Operaciones y gestión de proyectos | Deja por escrito cómo va un proyecto: qué está hecho, qué está comprobado, qué falta y qué decisiones esperan. |
+| [`facturar-desde-horas`](facturar-desde-horas/SKILL.md) | Administración y finanzas | Convierte un registro de horas en el borrador de las líneas de una factura y aparta lo dudoso. No emite facturas ni decide impuestos. |
+| [`bienvenida-puesto`](bienvenida-puesto/SKILL.md) | Personas y formación | Prepara la guía de la primera semana y el primer mes de un puesto concreto, y marca lo que falta en vez de inventarlo. |
 
 ## Más material
 
